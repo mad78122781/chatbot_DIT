@@ -1,0 +1,103 @@
+{"intentions":[
+
+    {
+        "tag": "salutations",
+        "questions": [ " Bonjour ", " Comment allez-vous ? ", " Salut ", " Quoi de neuf " ,"Salut ! ","Ça va ? "],
+        "réponses": ["comment ça va ?", "Bonjour partenaire !", "Bonjour", "Bonjour !", 
+        "Comment allez-vous ?", "tout va bien ?", "tout se passe bien pour vous ?",
+        "ça va chez vous ? ","Que puis-je faire pour vous aider?","En quoi puis-je vous être utile?"]
+    },
+    {
+        "tag": "piecesAfournir",
+        "questions": ["quelle sont les différentes pieces demander?",
+        "quelle sont les papiers que vous demendez?","dites moi les pieces à amener pour s'inscrir?",
+        "donner moi les papiers demender lors de l'inscription?","citez moi les pieces dont on a besoin pour s'inscrir?",
+        "pouriez vous me donner des  renseignement sur les papiers à fournir?"],
+        "réponses": ["pour que l'on puisse vous inscrire il faut amener","les différents papiers à fournir sont"]
+    },
+    {
+        "tag": "domaine ",
+        "questions":["votre formation est accée sur quel domaine ?","quels sont les domaines sur lesquels vous dispensez vos formations ?",
+        "puis-je savoir les domaines auquels vous faite vos formations ?","povez vous me donner des renseignements sur vos domaines de formations ?",
+        "parler moi de vos domaine de formation ?","ipd forme dans quel genre de domaine ?"],
+        "réponses":["nous formons dans les fileres suivant:","nous formons dans les domaines suivant:","nos domaine de formation sont:"] 
+    },
+    
+    
+    {
+        "tag": "specialisation",
+        "questions":["parler moi de différentes specialisation ?","est-ce qu'il y'a des specialisations en ?",
+        "puis-je avoir plus d'eclairecissement sur vos specialisation ?","quelles sont les specialisaton que vous avez à l'ipd",
+        "merci de m'informer sur vos specilisation ?", "quelles sont vos differentes specialisation ?" ],
+        "réponses": ["nous avons les specilisation suivantes:","vous pouvez vous specialiser en :","les specialisation que vous avez à ipd sont:"]
+    },
+    
+    
+    {
+        "tag": "diplomesDelivres",
+        "questions": ["je voulais avoir des informations sur les diplomes que vous délivrez ?","renseigner moi sur vos diplomes de délivrance ?",
+        "vous délivrez quel genre de diplôme ?","est-ce que vous avez des diplôme en ?","puis-je avoir plus d'eclairecissement sur vos diplomes délivré?"],
+        "réponses": ["ipd vous délivre les diplôme suivant:", "vous pouver recevoir les diplôme suivant:",
+        "a la fin de votre formation vous allez recevoir le diplôme suivant:"]
+    },
+    
+
+        
+    {
+        "tag": "modalite",
+        "questions": ["quelle est le cout de la formation ?"," De combien paie ton pour faire la formation ?","quelle est la somme total de la formation?",
+        "parlez moi des modalités de la formation?", "combien je peut paier por faire la formation?","faite moi part de vos differente modalité de paiement"],
+        
+        "réponses": ["la soome total de la formation est :","le cout de la formation est :","vous pouvez paiyer ma somme de :","ipd demande la somme de :"]
+    },
+    
+    
+    
+    {
+        "tag": "biblioteque",
+        "questions": ["avez-vous une biblioteque ?","est-ce qu'il y'a une biblioteque ?","l'ecole pocede t'il une biblioteque?"],
+        "réponses": ["oui nous avons une biblioteque:","si ipd à a sa pocession une grande biblioteque:","nous avons une grande biblioteque bien equipé:"]
+    },
+    
+
+    {
+        "tag": "localisation",
+        "questions": ["où se trouve ipd ?","comment je peut faire pour venir à l'ipd ?","donner moi votre localisation svp ?","votre situation geographique ?",
+        "quel est votre adresse ?"],
+        "réponses": ["ipd se trouve ","pour venir à ipd il faut ","notre adresse est ","voici notre adresse","nous se situons à"]
+    },
+
+    {
+        "tag": "conditionsDAdmissibilites",
+        "questions": ["quelles sont les conditions d'admission ?","donner moi vos differentes conditions d'admission ?",
+        "svp faite moi part de vos conditios d'admission ?"],
+        "réponses": ["pour les 1er annee Licence: Bac ou Diplôme equivalent toute serie sauf pour le Genie Civil (Bac S exigé)",
+        "Master: Licence ou Diplôme équivalent + examen de dossier","Formation metiers : 3émes, 2nde et 1ére"]
+    },
+
+    {
+        "tag": "debutDesCours",
+        "questions": ["quant est ce que les cours vont debuter ?","c'est à quant le debut des cours ? ",
+        "le démarage des cours c'est pour quand ?"],
+        "réponses":["Mercredi 03 Novembre 2021 pour les Licence 1","Mercedi 06 octobre 2021 pour les licence 2","Mercredi  08 Decembre 2021 pour les Licence 3"] 
+    },
+    {
+        "tag": "remerciements",
+        "questions":  [ "Merci" ,  "Merci" ,  "C'est utile" ],
+        "réponses":  [ "Heureux de vous aider !" ,  "A tout moment !" ,  "Mon plaisir" ]
+    },
+
+    {
+        "tag": "auRevoir",
+        "questions": [ " au revoir ", " à plus tard ", " a la prochaine" ], 
+        "réponses": [" A plus tard ", " A bientôt !" ]
+    },
+    {
+        "tag": "",
+        "questions":"",
+        "réponses":  [ "pouvez-vous repeter la question svp !" ,"désolé je ne comprend pas !"]
+      
+    }
+   
+]
+}
